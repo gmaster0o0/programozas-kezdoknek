@@ -37,6 +37,7 @@ https://perlmaven.com/
 https://www.w3schools.com/java/java_methods_param.asp
 
 **perl fuggevenyek pelda**
+itt tudjátok kipróbálni
 
 ```perl
 sub fuggveny {
